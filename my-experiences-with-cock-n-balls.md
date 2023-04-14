@@ -1,6 +1,4 @@
-=========
-theme: jekyll-theme-tactile
-=========
+
 # My Experiences With Cock-n-Balls
 
 It was meant to be an April Fool’s Joke, But Was Delayed Due To Some Reasons.
