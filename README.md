@@ -10,19 +10,6 @@ The blogs in this repository are protected under the [Creative Commons Attributi
 
 tl;dr: sharing is allowed, but blatantly pasting is a huge no-no
 
-Contributing
-------------
-
-I welcome contributions to my blog repository! If you would like to contribute, please follow these guidelines:
-
-1.  Fork this repository and create a new branch for your contribution.
-2.  Create a directory with your username inside the "blogs" directory. For example, if your username is "SarthakSid", create a directory named "SarthakSid" inside the "blogs" directory.
-3.  Write your blog post in a new file within your username directory. Please ensure that your blog post is well-written, respectful, and aligns with the content guidelines mentioned above. You can use any markup language or plain text for your blog post.
-(PS: We Use Hacker Theme, A Jekyll Theme For Markdown By Default, Discover Hacker Theme at: https://pages-themes.github.io/hacker/)
-(If You Wish, You Can Also Use Another Theme By Mentioning `theme: THEME-NAME` in the .md, You're Also Not Allowed to Use Permalinks)
-4.  Submit a pull request with your contribution.
-5.  Note that by contributing to this repository, you agree to license your contributions under the same license as the existing content (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License).
-
 Enjoying and Sharing the Blogs
 ------------------------------
 
