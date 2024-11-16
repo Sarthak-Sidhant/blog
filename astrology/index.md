@@ -1,3 +1,5 @@
+[the pdf version has a better structured way of displaying stuff](https://sarthaksidhant.com/blog/pdf/astrology.pdf)
+
 I was born in Late August, My Zodiac Sign is Virgo. It's also called a Star Sign.
 # what
 [According to This Article in USA Today, by Olivia Munson and Anna Kaufman](https://www.usatoday.com/story/life/2024/07/02/what-is-my-zodiac-star-sign/74192581007/)
@@ -64,12 +66,15 @@ And that's how Astrology, shoots shot in dark, and leaves it up to you, to make 
 ## the barnum effect
 ##### intro -->
 
-![[Pasted image 20240728185349.png]]
+![image](https://github.com/user-attachments/assets/1e2439af-95de-4dcd-8c26-131022acc155)
+
 This guy above, PT Barnum, was a showman in the US of A. 
 He is often remembered for founding the Barnum and Bailey Circus in 1871.
 He has 2 movies made on him, **The Greatest Show on Earth - 1952** and **The Greatest Showman - 2017**. He had a special thing in his show, where he would give “a little something for everybody.”
 
- ![[Pasted image 20240728190354.png]]![[Pasted image 20240728190642.png]]/
+ ![image](https://github.com/user-attachments/assets/b263f05e-86b6-4f57-9a5e-38148bf2a556)
+ ![image](https://github.com/user-attachments/assets/15f7de12-e18f-42fc-bbe3-ebe72f355d6e)
+
  it was in 1949, when Bertram Forer, A Psychologist (the guy above on the right),
 studied it and named it **"the fallacy of personal validation"**
 and in 1956, it was coined as **"the barnum effect"** by another psychologist, Paul Meehl.
@@ -112,7 +117,8 @@ and that's how astrology plays on you. with the help of the barnum effect.
 **i will quickly dip into the other psychology related things which are left** 
 ### desire for certainty, confirmation bias, placebos, and ambiguity
 
-![[Pasted image 20240728194451.png]]
+![image](https://github.com/user-attachments/assets/ef7de2e4-17db-4b06-87e6-920bb2806a97)
+
 So Remember How I was a Virgo?
 
 with the traits of being Analytical, practical, helpful, critical, perfectionist.
@@ -338,7 +344,8 @@ As scientific knowledge advanced, the foundations of astrology crumbled. **The r
 stop believing in astrology, stop asking others to believe in astrology. its just vague statements that happen to match to you. you know its fake, you know it is unscientific. but you're trying to be cool amongst your friends, ig? you're trying to find a meaning to life? but trust me, astrology and daily horoscopes are not the way. grow up. be cool with science. comparatively there are better placebos. also an astrologer wont find you a date, or fetch you back your ex.
 
 **stop paying thousands to these scamsters**
-![[Pasted image 20240729010543.png]]
+![image](https://github.com/user-attachments/assets/65a8c457-9b07-46e3-a7ae-e089f84856c8)
+
 exploiting people at bad mental state should be considered a crime.
 
 anyway, astrology is a strongly built system of belief, that has already struck its roots deep down the society. [44% of Indians believe in Astrology.](https://www.pewresearch.org/religion/2021/06/29/religious-beliefs-2/) in the other side of the world, [Astrology is considered scientific too, because National Science Foundation found that 41% of Americans believed that astrology is "very scientific" or "sort of scientific"](http://www.nsf.gov/statistics/seind14/content/chapter-7/c07.pdf). [(However this report was criticized of being biased/flawed)](https://neoacademic.com/2014/02/14/nsf-report-flawed-americans-do-not-believe-astrology-is-scientific/#:~:text=Across%20the%20sample%2C%20approximately%2030,to%20be%20a%20little%20more)
@@ -347,7 +354,8 @@ Quite Frankly, I think this should stop, we should stop believing in something u
 
 Ending with a Quote from Carl Sagan Himself.
 
-![[Pasted image 20240729010837.png]]  
+![image](https://github.com/user-attachments/assets/4a39e33f-1611-4a43-8f69-c899f29e8372)
+
 
 Have a great day!
 
